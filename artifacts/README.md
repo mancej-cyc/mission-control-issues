@@ -6,7 +6,7 @@ Self-contained HTML documents. Each one is a single file with inline CSS, inline
 
 | Artifact | What it is |
 | --- | --- |
-| [`mission-control-feature-guide.html`](mission-control-feature-guide.html) | A high-level guide to Mission Control's major features - the Board and control plane, the session desk (conversation, diff, files), Dispatch and the five task kinds, the backlog and its task sources, Foreman, Workflows and Personas, Retro and repository memory, and Ensembles - with 20 screenshots captured from a real built daemon driving a token-free demo fleet. |
+| [`mission-control-feature-guide.html`](mission-control-feature-guide.html) | A high-level guide to Mission Control's major features - the Board and control plane, the session desk (conversation, diff, files), Dispatch and the five task kinds, per-repository standing instructions, Scouts and the archive, the backlog and its task sources, Foreman, Workflows and Personas, Shipping and the GitHub Inspector, the AI Conductor pipeline integration, Retro and repository memory, and Ensembles - with 25 screenshots captured from a real built daemon driving a token-free demo fleet. |
 
 ## Reading them
 
